@@ -1,0 +1,14 @@
+C:\Projetos do Visual Studio\Atividades URI\Atividades URI\bin\Debug\net7.0\Atividades URI.exe
+C:\Projetos do Visual Studio\Atividades URI\Atividades URI\bin\Debug\net7.0\Atividades URI.deps.json
+C:\Projetos do Visual Studio\Atividades URI\Atividades URI\bin\Debug\net7.0\Atividades URI.runtimeconfig.json
+C:\Projetos do Visual Studio\Atividades URI\Atividades URI\bin\Debug\net7.0\Atividades URI.dll
+C:\Projetos do Visual Studio\Atividades URI\Atividades URI\bin\Debug\net7.0\Atividades URI.pdb
+C:\Projetos do Visual Studio\Atividades URI\Atividades URI\obj\Debug\net7.0\Atividades URI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos do Visual Studio\Atividades URI\Atividades URI\obj\Debug\net7.0\Atividades URI.AssemblyInfoInputs.cache
+C:\Projetos do Visual Studio\Atividades URI\Atividades URI\obj\Debug\net7.0\Atividades URI.AssemblyInfo.cs
+C:\Projetos do Visual Studio\Atividades URI\Atividades URI\obj\Debug\net7.0\Atividades URI.csproj.CoreCompileInputs.cache
+C:\Projetos do Visual Studio\Atividades URI\Atividades URI\obj\Debug\net7.0\Atividades URI.dll
+C:\Projetos do Visual Studio\Atividades URI\Atividades URI\obj\Debug\net7.0\refint\Atividades URI.dll
+C:\Projetos do Visual Studio\Atividades URI\Atividades URI\obj\Debug\net7.0\Atividades URI.pdb
+C:\Projetos do Visual Studio\Atividades URI\Atividades URI\obj\Debug\net7.0\Atividades URI.genruntimeconfig.cache
+C:\Projetos do Visual Studio\Atividades URI\Atividades URI\obj\Debug\net7.0\ref\Atividades URI.dll
